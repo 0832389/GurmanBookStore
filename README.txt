@@ -13,5 +13,11 @@ Registered by email and setting password, it worked.
 After that, i logged out and then logged in to check if it works properly.
 It worked.
 Then, i created repository, did commits and added a README.md file.
+Then, checked HomeController.cs and ErrorViewModel.cs filea and they are okay.
+
+Started 1.1 at 4:40 PM.
+Finished 1.1 at 05:03 PM.
+
+
 
 
