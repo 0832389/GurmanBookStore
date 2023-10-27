@@ -12,6 +12,6 @@ Then, i tested my application and it worked!!!!
 Registered by email and setting password, it worked.
 After that, i logged out and then logged in to check if it works properly.
 It worked.
-
+Then, i created repository, did commits and added a README.md file.
 
 
