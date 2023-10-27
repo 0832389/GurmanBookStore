@@ -18,6 +18,10 @@ Then, checked HomeController.cs and ErrorViewModel.cs filea and they are okay.
 Started 1.1 at 4:40 PM.
 Finished 1.1 at 05:03 PM.
 
-
+Started 1.2 with debugging at 05:07 PM.
+Put breakpoints on Index and Privacy in HomeController.cs.
+Then, tested the application.Due to the breakpoints it did not opened.
+Then, continue to issexpress to get the output. At this point i got the Privacy Policy page.
+Now, i commited as i am done with part 1.2. 
 
 
